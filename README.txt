@@ -1,6 +1,6 @@
-JUEGO PONG
+JUEGO PONG - feb 2017
 
-Este juego fue desarrollado por Marina Mansueto. Se deben descomprimir el archivo manteniendo en su lugar todas las carpetas y archivos para el correcto funcionamiento.
+Este juego fue desarrollado por Marina Mansueto para ScolarTIC. Se deben descomprimir el archivo manteniendo en su lugar todas las carpetas y archivos para el correcto funcionamiento.
 
 JUGADORES
  2 jugadores
