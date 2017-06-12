@@ -5,7 +5,7 @@ Este juego fue desarrollado por Marina Mansueto para ScolarTIC. Se deben descomp
 JUGADORES
  2 jugadores
 
-CONTROLOES
+CONTROLES
 
 JUGADOR IZQUIERDA : 
 	Tecla W (movimiento hacia arriba)
